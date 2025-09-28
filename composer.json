@@ -1,0 +1,19 @@
+{
+    "name": "naaaa/crap",
+    "description": "login",
+    "require": {
+        "google/apiclient": "^2.18",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Naaaa\\Crap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andicha Pratama"
+        }
+    ],
+    "minimum-stability": "stable"
+}
